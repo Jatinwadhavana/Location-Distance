@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="normal">15dp</dimen>
+    <dimen name="margin_normal">15dp</dimen>
+    <dimen name="sc_pad">15dp</dimen>
+    <dimen name="menu_item_pad">19dp</dimen>
+    <dimen name="margin_large">18dp</dimen>
+    <dimen name="row_pad">15dp</dimen>
+    <dimen name="bt_pad">25dp</dimen>
+</resources>

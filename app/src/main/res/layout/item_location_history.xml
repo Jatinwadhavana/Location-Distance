@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@android:color/white"
+        android:orientation="vertical"
+        android:paddingTop="@dimen/row_pad"
+        android:paddingLeft="@dimen/row_pad"
+        android:paddingBottom="@dimen/row_pad">
+
+        <TextView
+            android:id="@+id/tvLocDay"
+            style="@style/lbl_style" />
+
+        <TextView
+            android:id="@+id/tvLocDate"
+            style="@style/lbl_style" />
+
+        <TextView
+            android:id="@+id/tvLocTime"
+            style="@style/lbl_style" />
+    </LinearLayout>
+</layout>
